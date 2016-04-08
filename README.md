@@ -24,4 +24,5 @@ Chinthu
 ## buzzwords und links
 
 [mailcatcher](https://github.com/sj26/mailcatcher)
-[Phansible] (http://phansible.com/)
+
+[Phansible](http://phansible.com/)

@@ -44,4 +44,5 @@ Chinthu
 - [HTTP 203 Videos](https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e)
 - [Totally Tooling Tips Videos](https://www.youtube.com/playlist?list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ)
 - [Supercharged Videos](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr)
+- [Meetup am 19.5. der Meetup-Gruppe "Softwaretest, Testautomatisierung und -management Saar": Testen web-basierter Oberflächen mit Selenium] (http://www.meetup.com/Saarland-Softwarequalitatssicherung-Testautomatisierung/events/228475656/)
 
